@@ -4,9 +4,6 @@
 - 👀 I’m interested in learning more about technology. In the future, focus on something - which I haven't decided yet.
 
 
-- 🌱 I’m currently learning at the moment I'm learning Requirements Engineering and Configuration and Evolution Management. Finished Programming I and Design for Mobile Devices.
-
-
 - 💞️ I’m looking to collaborate on with everything possible, because I'm still learning.
 
 
