@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @cyntiasarayengineer. My name is Cyntia Saray, I live in Brazil. I'm a Software Engineering student. All new to me, but with a lot of desire to learn.
+Software Engineer | Data & AI Enthusiast | Building AR/AI projects
 
-- 📫 How to reach me: cyntiasaray.engineer@gmail.com
+Seeking to deepen into AI engineering, open-source contributions, and demonstrate impact-driven solutions.
