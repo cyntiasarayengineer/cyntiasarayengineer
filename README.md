@@ -1,3 +1,5 @@
-Software Engineer | Data & AI Enthusiast | Building AR/AI projects
+Software Engineer | AI & Augmented Reality Enthusiast
 
-Seeking to deepen into AI engineering, open-source contributions, and demonstrate impact-driven solutions.
+🌍 Based in Brazil | Passionate about building impact-driven applications with machine learning and AR.
+🔧 Current role: Analista de Suporte Técnico
+📁 Explore my projects: https://github.com/cyntiasarayengineer?tab=repositories
